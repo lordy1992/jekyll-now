@@ -3,9 +3,9 @@ layout: post
 title: When worlds collide
 ---
 
-I've decided to take on an idea influenced by one of my other great loves ([writing](/writing/)!).
-There are many websites out there for writer's to find community, to critique and get feedback, to look for advice, but I
-haven't found anything that checks all of the boxes I'm looking for.
+I've decided to take on an idea influenced by one of my other great loves - [writing](/writing/).
+There are many websites out there for writers to find community, to critique and get feedback, to look for advice, but I
+haven't found anything that checks all the boxes I'm looking for.
 
 I'd love to find a website with a richer feature set for providing feedback (a la inline comments, and 'track changes'),
 along with a forum that is publicly viewable - so many writing forums these days are walled gardens, but I like to try before I buy (or, before I make a free account).
